@@ -1,6 +1,6 @@
 <div align="center">
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=6994CD&height=180&section=header&text=Jeon%20Donghyeon&fontSize=42&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Statistics%20%C3%97%20AI%20Software%20%40%20Dongguk%20Univ.&descAlignY=56&descSize=16)
+![header](https://capsule-render.vercel.app/api?type=waving&color=6994CD&height=180&section=header&text=Hi%2C%20I%27m%20Donghyeon%20%F0%9F%91%8B&fontSize=40&fontColor=ffffff&animation=twinkling&fontAlignY=36&desc=Statistics%20%C3%97%20AI%20Software%20%40%20Dongguk%20Univ.&descAlignY=56&descSize=16)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=6994CD&center=true&vCenter=true&width=600&lines=Data+%C3%97+AI+Builder;President+of+BAF%2C+Dongguk+Big+Data+Club;Built+120%25+%E2%80%94+AI+Admissions+SaaS)](https://git.io/typing-svg)
 
